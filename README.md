@@ -22,3 +22,9 @@ All the screenshots of the carts: https://drive.google.com/drive/folders/1_GYV8T
 <br/>
 <br/>
 Why I built this: Wanted a fully backlit keyboard for coding in the night. Also wanted a mechanical keyboard.
+<br/>
+<br/>
+
+Images:
+<img width="1818" height="831" alt="Screenshot 2025-12-28 131333" src="https://github.com/user-attachments/assets/210fc6c1-68b4-4917-9a30-d4c428ba7482" />
+<img width="1565" height="604" alt="Screenshot 2025-12-24 214840" src="https://github.com/user-attachments/assets/4f565ae7-c645-45f1-bd8c-1196556a7729" />
