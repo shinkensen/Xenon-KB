@@ -1,3 +1,24 @@
 # Xenon-KB
 
 The Xenon KB is an 85%, fully rgb backlit (96 zone), fully wireless keyboard powered by an esp32 chip with a unique key design. 
+
+<br/>
+<br/>
+More specifications:
+- CPG151101D01 Switches (From HanElectricty) https://www.lcsc.com/product-detail/C49234238.html
+- Backlit by an array of SK6812MINI-Es
+- 5000mah LiPo 1s 3.7v battery
+- Fully Custom Keycaps & Case
+- Wireless with BLE from the onboard ESP-32 
+- Rotary Encoder
+<br/>
+BOM:
+https://docs.google.com/spreadsheets/d/1MoRKEyVhLm31BRy2YZbWCOqMzg5SxBg5gL_tJ-3HmaI/edit?usp=sharing
+<img width="2178" height="916" alt="image" src="https://github.com/user-attachments/assets/6a03fe01-2f8c-4177-bc86-139c9c37a495" />
+<br/>
+
+All the screenshots of the carts: https://drive.google.com/drive/folders/1_GYV8TD-opU9jGdwIyMG7L0oK-KXUA7e?usp=sharing
+
+<br/>
+<br/>
+Why I built this: Wanted a fully backlit keyboard for coding in the night. Also wanted a mechanical keyboard.
