@@ -5,12 +5,12 @@ The Xenon KB is an 85%, fully rgb backlit (96 zone), fully wireless keyboard pow
 <br/>
 <br/>
 More specifications:
-- CPG151101D01 Switches (From HanElectricty) https://www.lcsc.com/product-detail/C49234238.html
-- Backlit by an array of SK6812MINI-Es
-- 5000mah LiPo 1s 3.7v battery
-- Fully Custom Keycaps & Case
-- Wireless with BLE from the onboard ESP-32 
-- Rotary Encoder
+ - CPG151101D01 Switches (From HanElectricty) https://www.lcsc.com/product-detail/C49234238.html
+ - Backlit by an array of SK6812MINI-Es
+ - 5000mah LiPo 1s 3.7v battery
+ - Fully Custom Keycaps & Case
+ - Wireless with BLE from the onboard ESP-32 
+ - Rotary Encoder
 <br/>
 BOM:
 https://docs.google.com/spreadsheets/d/1MoRKEyVhLm31BRy2YZbWCOqMzg5SxBg5gL_tJ-3HmaI/edit?usp=sharing
