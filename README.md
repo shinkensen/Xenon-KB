@@ -20,7 +20,8 @@ More specifications:
 <br/>
 BOM:
 https://docs.google.com/spreadsheets/d/1MoRKEyVhLm31BRy2YZbWCOqMzg5SxBg5gL_tJ-3HmaI/edit?usp=sharing
-<img width="2178" height="916" alt="image" src="https://github.com/user-attachments/assets/6a03fe01-2f8c-4177-bc86-139c9c37a495" />
+<img width="2170" height="906" alt="image" src="https://github.com/user-attachments/assets/f1e00c29-6328-49e0-8573-a75c504816ea" />
+
 <br/>
 
 All the screenshots of the carts: https://drive.google.com/drive/folders/1_GYV8TD-opU9jGdwIyMG7L0oK-KXUA7e?usp=sharing
