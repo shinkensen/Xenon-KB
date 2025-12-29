@@ -27,7 +27,10 @@ https://docs.google.com/spreadsheets/d/1MoRKEyVhLm31BRy2YZbWCOqMzg5SxBg5gL_tJ-3H
 BOM for parts
 https://drive.google.com/file/d/10kQmmBENU_pZNQ-ZYw2EzStenI3IcliA/view?usp=drive_link
 <br/>
-All the screenshots of the carts: https://drive.google.com/drive/folders/1_GYV8TD-opU9jGdwIyMG7L0oK-KXUA7e?usp=sharing
+
+<br/>
+
+Google Drive Folder: https://drive.google.com/drive/folders/1_GYV8TD-opU9jGdwIyMG7L0oK-KXUA7e?usp=sharing
 
 <br/>
 <br/>
