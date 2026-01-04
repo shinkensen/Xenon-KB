@@ -22,6 +22,7 @@ BOM:
 https://docs.google.com/spreadsheets/d/1MoRKEyVhLm31BRy2YZbWCOqMzg5SxBg5gL_tJ-3HmaI/edit?usp=sharing
 <br/>
 <img width="2773" height="1085" alt="image" src="https://github.com/user-attachments/assets/53509521-6037-4907-88d9-11b2f1c8b06f" />
+<img width="1252" height="779" alt="image" src="https://github.com/user-attachments/assets/cf8a6973-14ef-49a2-8e6b-b80f31553494" />
 
 
 <br/>
